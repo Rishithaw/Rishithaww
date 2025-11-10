@@ -1,4 +1,3 @@
-# Rishithaww
 <h1 align="center">Hi 👋, I'm Rishitha Wickramasinghe</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Sri Lanka</h3>
 
